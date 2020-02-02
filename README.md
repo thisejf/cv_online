@@ -5,6 +5,7 @@
 - Scripts serveurs: PHP, MVC.
 - Framework et POO côté serveur: Symfony 4.
 - SGBDR : SQL.
+- CMS: Wordpress
 - Approche design: Photoshop, illustrator.
 - Divers: Git, SEO, base de réseaux.
 
@@ -36,3 +37,4 @@ Esprit analytique, consciencieux, adaptabilité.
 Français langue maternelle,  
 Anglais intermédiaire,  
 Néerlandais introductif.
+
